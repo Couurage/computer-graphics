@@ -1,0 +1,9 @@
+build/
+build-*/
+shaders/*.spv
+imgui.ini
+cube.ppm
+cube.png
+screenshots/*.ppm
+screenshots/*.png
+.DS_Store
